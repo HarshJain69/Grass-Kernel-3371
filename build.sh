@@ -1,7 +1,7 @@
 #!/bin/bash
 clear
 echo Cloning AnyKernel
-git clone https://github.com/yograjfire18/AnyKernel3 --depth=1 anykernel
+git clone https://github.com/HarshJain69/anykernel3 --depth=1 anykernel
 
 DT=$(date +"%Y%m%d-%H%M")
 
